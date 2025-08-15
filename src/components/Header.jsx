@@ -10,7 +10,7 @@ const Header = () => {
           Book Appointment <br></br>
           With Trusted Doctors
         </p>
-        <div className="flex flex-col md:flex-row items-center gap-3 text-white text-sm font-light">
+        <div className="flex flex-col md:flex-row items-center gap-3  text-sm font-light">
           <img className="w-28" src={assets.group_profiles}></img>
           <p>
             Simply browse our extensive list of trusted doctors,{" "}
